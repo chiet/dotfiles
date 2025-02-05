@@ -1,6 +1,7 @@
 # 🖥️ My Developer Environment
 
-![Dotfiles Preview](screenshot.png) *← Add your own screenshot*
+![Dotfiles Preview](screenshot.png)
+![alt text](image.png) *← Add your own screenshot*
 
 My personal configuration files and development environment setup. Built for productivity, aesthetics, and cross-platform compatibility.
 
