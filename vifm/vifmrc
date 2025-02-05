@@ -78,7 +78,6 @@ nnoremap pic :cd ~/pictures<cr>
 nnoremap dls :cd ~/downloads<cr>
 nnoremap dots :cd ~/dotfiles<cr>
 nnoremap docs :cd ~/documents<cr>
-nnoremap glaze :cd ~/.glzr/glazewm<cr>
 nnoremap git :cd ~/documents/github<cr>
 nnoremap vifm :cd ~/appdata/roaming/vifm<cr>
 " Create 'open with' dialogue box for selected file
