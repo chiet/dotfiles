@@ -36,7 +36,8 @@ My personal configuration files and development environment setup. Built for pro
 
 ### Quick Install (Bash)
 ```bash
-curl -sL https://raw.githubusercontent.com/yourusername/dotfiles/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/yourusername/dotfiles/main/install.sh | bash```
+
 Note: Always review scripts before executing!
 Manual Installation
 
