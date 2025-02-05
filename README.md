@@ -1,7 +1,7 @@
 # 🖥️ My Developer Environment
 
-![Explorer](res/image.png)
 ![Home](res/image-1.png)
+![Explorer](res/image.png)
 ![Code](res/image-2.png)
 
 
@@ -18,7 +18,6 @@ My personal configuration files and development environment setup. Built for pro
 ## 📂 Table of Contents
 
 - [What's Included](#-whats-included)
-- [Installation](#-installation)
 - [Customization](#-customization)
 - [Screenshots](#-screenshots)
 - [Dependencies](#-dependencies)
