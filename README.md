@@ -1,8 +1,8 @@
 # 🖥️ My Developer Environment
 
-![Explorer](image.png)
-![Home](image-1.png)
-![Code](image-2.png)
+![Explorer](res/image.png)
+![Home](res/image-1.png)
+![Code](res/image-2.png)
 
 
 My personal configuration files and development environment setup. Built for productivity, aesthetics, and cross-platform compatibility.
