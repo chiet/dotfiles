@@ -1,14 +1,10 @@
-"##############################################################################"
 "# VIM/NVIM
-"##############################################################################"
 
 if executable('nvim')
     set vicmd=C:/Users/ACER/scoop/shims/nvim.exe
 endif
 
-"##############################################################################"
 "# SETTINGS
-"##############################################################################"
 
 colorscheme papercolor-dark
 set syscalls
@@ -18,8 +14,6 @@ set nofollowlinks
 set sortnumbers
 set undolevels=100
 "set norunexec
-set statusline="%f %= %s %d"
-set timefmt=%m/%d\ %H:%M
 set wildmenu
 set wildstyle=popup
 set suggestoptions=normal,visual,view,otherpane,keys,marks,registers
@@ -38,18 +32,15 @@ if !has('win')
     set slowfs=curlftpfs
 endif
 
-"##############################################################################"
+set timefmt=%m/%d\ %H:%M
+set statusline="%f %= %s %d"
+
 "# FILES & FOLDER
-"##############################################################################"
 filextype * start "" %"c
 fileviewer * %"c
 
-"##############################################################################"
 "# CUSTOM COMMANDS
-"##############################################################################"
 
-" Custom command to run .exe files
-" command! runexe :!start %"c
 " Custom command to open files with their default programs using the start command
 command! open :!start "" %"c
 " Custom command to open Windows Terminal in the current directory
@@ -65,9 +56,7 @@ command! cdstart :cd "~/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/St
 command! zen :cd "~/AppData/Roaming/zen/Profiles/q173o42t.Default (alpha)/chrome/"
 command! kanata :cd "~/AppData/Roaming/Kanata/"
 
-"##############################################################################"
 "# KEY MAPPING
-"##############################################################################"
 
 " Quick shortcuts to some dirs
 " Map the <UserDefine> key to the custom open command
@@ -114,11 +103,7 @@ nnoremap . za
 " Fuzzy search files
 "nnoremap F :FZFfind <cr>
 
-"##############################################################################"
 "# ICONS
-"##############################################################################"
-
-" ### Icons
 " Filetypes/directories
 set classify=' :dir:, :exe:, :reg:, :link:,? :?:, ::../::'
 " Specific files
