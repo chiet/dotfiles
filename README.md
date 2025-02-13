@@ -1,9 +1,8 @@
 # 🖥️ My Developer Environment
 
-![Home](res/image-1.png)
-![Explorer](res/image.png)
-![Code](res/image-2.png)
-
+![[image-1.png]]
+![[image.png]]
+![[image-2.png]]
 
 My personal configuration files and development environment setup. Built for productivity, aesthetics, and cross-platform compatibility.
 
@@ -19,15 +18,33 @@ My personal configuration files and development environment setup. Built for pro
 
 - [What's Included](#-whats-included)
 - [Customization](#-customization)
-- [Screenshots](#-screenshots)
-- [Dependencies](#-dependencies)
-- [License](#-license)
+- [Installations](#-Installations)
 
 ## 📦 What's Included
 
-| File/Directory       | Purpose                          | Related Tools   |
-|----------------------|----------------------------------|-----------------|
-| `~/.bashrc`          | Shell configuration              | Bash, Oh-My-Posh|
-| `~/.config/nvim/`    | Neovim configuration             | Lua, Packer     |
-| `~/.gitconfig`       | Git aliases and configuration    | Git             |
-| `scripts/`           | Custom helper scripts            | Bash, Python    |
+| File/Directory         | Purpose                                                | Related Tools                |
+| ---------------------- | ------------------------------------------------------ | ---------------------------- |
+| `~/.bashrc`            | Shell configuration                                    | Bash, Oh-My-Posh             |
+| `~/nvim`               | Neovim configuration                                   | LazyVim                      |
+| ~~`~/.gitconfig`~~     | ~~Git aliases and configuration~~                      | ~~Git~~                      |
+| `~/windows terminal`   | Windows Terminal                                       | Powershell, Windows Terminal |
+| `~/mtab`               | Customize new tab                                      | Zen Browser                  |
+| `~/.glzr/glazewm`      | Tiling window manager                                  | GlazeWM                      |
+| `~/.glzr/zebar`        | Top/bottom bar                                         | Zebar                        |
+| `~/glazewm-extra.toml` | Add transparency, remove titlebar                      | GlazeWM                      |
+| `~/powershell`         | Powershell aliases, profile, oh-my-posh, icons, etc... | Powershell 7+                |
+| `~/sidebery`           | Tree-style tab                                         | Zen Browser                  |
+| `~/vifm`               | Neovim inspired file manager                           | Vifm                         |
+| `~/vscode`             | VSCode customization                                   | Visual Studio Code,          |
+
+### Extra paid/closed source software
+- Start11 from Stardock
+- Fences from Stardock
+- Cider (preview) for Apple Music client on Windows
+- 
+p.s you can easily get these files/installer for free if you ask me. (except for cider)
+## 🛠️ Installations
+
+- https://gitforwindows.org/
+- https://github.com/PowerShell/PowerShell
+- 
