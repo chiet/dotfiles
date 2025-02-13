@@ -10,6 +10,7 @@ Set-Alias eth get-netadapter
 Set-Alias st saps
 Set-Alias cl cls
 Set-Alias choc choco
+Set-Alias ff fastfetch
 
 #Themes
 oh-my-posh init pwsh --config 'C:\Program Files (x86)\oh-my-posh\themes\peru_jebat.omp.json' | Invoke-Expression

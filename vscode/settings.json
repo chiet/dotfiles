@@ -1,0 +1,144 @@
+{
+    /** ------------ Workbench Settings ------------ **/
+"workbench.colorCustomizations": {
+    "inlineparameters.annotationBackground": "#282A3600",
+    "inlineparameters.annotationForeground": "#7b82af",
+    "scrollbar.shadow": "#24292e00"
+    },
+"workbench.tree.indent": 16,
+"breadcrumbs.filePath": "on",
+"breadcrumbs.symbolPath": "off",
+"workbench.tips.enabled": false,
+"workbench.startupEditor": "none",
+"workbench.editor.showTabs": "none",
+"workbench.editor.empty.hint": "hidden",
+"workbench.editor.enablePreview": false,
+"workbench.editorLargeFileConfirmation": 10024,
+"workbench.editor.enablePreviewFromQuickOpen": false,
+"workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+
+  /** ------------ Editor Settings ------------ **/
+"editor.fontSize": 18,
+"editor.folding": true,
+"editor.lineHeight": 27,
+"editor.wordWrap": "on",
+"editor.fontWeight": 100,
+"editor.glyphMargin": true,
+"editor.hover.delay": 1500,
+"editor.hover.enabled": true,
+"scm.diffDecorations": "none",
+"editor.matchBrackets": "never",
+"editor.colorDecorators": false,
+"editor.lineNumbers": "relative",
+"editor.cursorStyle": "underline",
+"editor.detectIndentation": false,
+"editor.lightbulb.enabled": "off",
+"editor.guides.indentation": false,
+"editor.snippetSuggestions": "top",
+"editor.selectionHighlight": false,
+"editor.overviewRulerBorder": false,
+"diffEditor.renderSideBySide": false,
+"editor.renderLineHighlight": "none",
+"editor.occurrencesHighlight": "off",
+"problems.decorations.enabled": false,
+"editor.scrollbar.horizontal": "hidden",
+"editor.emptySelectionClipboard": false,
+"editor.multiCursorModifier": "ctrlCmd",
+"editor.renderControlCharacters": false,
+"diffEditor.ignoreTrimWhitespace": false,
+"editor.hideCursorInOverviewRuler": true,
+"editor.copyWithSyntaxHighlighting": false,
+"editor.gotoLocation.multipleReferences": "goto",
+"editor.gotoLocation.multipleDefinitions": "goto",
+"editor.gotoLocation.multipleDeclarations": "goto",
+"editor.unicodeHighlight.ambiguousCharacters": false,
+"editor.unicodeHighlight.invisibleCharacters": false,
+"editor.gotoLocation.multipleImplementations": "goto",
+"editor.gotoLocation.multipleTypeDefinitions": "goto",
+"editor.fontFamily": "'Fira Code Retina', 'Hack Nerd Font', Monospace",
+
+// Typography
+//"editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
+"editor.suggestFontSize": 16,
+"editor.suggestLineHeight": 30,
+"search.useIgnoreFiles": false,
+"search.exclude": {
+// Hide everything in /vendor, except the "laravel" and "livewire" folder.
+    "**/vendor/{[^l],?[^ai]}*": true,
+    // Hide everything in /public, except "index.php"
+    "**/public/{[^i],?[^n]}*": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/_ide_helper.php": true,
+    "**/composer.lock": true,
+    "**/package-lock.json": true,
+    "storage": true,
+    ".phpunit.result.cache": true
+        },
+
+// Include "-" in word selection.
+"editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
+"emmet.includeLanguages": {
+    "blade": "html",
+    "vue-html": "html",
+    "vue": "html",
+    "react": "html",
+    "javascript": "html"
+    },
+
+"files.associations": {
+    ".php_cs": "php",
+    ".php_cs.dist": "php"
+},
+
+
+// Windows Configurations
+"window.newWindowDimensions": "inherit",
+// Files Configurations
+"files.trimFinalNewlines": true,
+"files.insertFinalNewline": true,
+"files.trimTrailingWhitespace": true,
+
+/** ------------ Terminal Configurations ------------ **/
+"terminal.integrated.fontSize": 16,
+"terminal.integrated.lineHeight": 1,
+"terminal.integrated.fontWeight": 550,
+"terminal.integrated.cursorBlinking": true,
+"terminal.integrated.enableMultiLinePasteWarning": "always",
+"terminal.integrated.fontFamily": "'MesloLGS NF', 'Hack Nerd Font', Monospace",
+//"terminal.integrated.defaultProfile.osx": "zsh",
+//"terminal.integrated.fontSize": 16,
+//"terminal.integrated.fontWeightBold"
+
+/** ------------ Additional Configurations ------------
+/* "vscode_custom_css.imports": [
+    "file:///C:/.vscode/vscode-custom/custom.css",
+    "file:///C:/.vscode/vscode-custom/script.js"
+
+], */
+"workbench.colorTheme": "FireFly Pro Bright",
+"workbench.preferredHighContrastColorTheme": "Quiet Light",
+"workbench.activityBar.location": "hidden",
+"extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+},
+"window.commandCenter": false,
+"editor.autoIndent": "brackets",
+"window.confirmSaveUntitledWorkspace": false,
+"makefile.configureOnOpen": true,
+"extensions.ignoreRecommendations": true,
+"[css]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier"
+},
+"todohighlight.isEnable": true,
+"liveServer.settings.donotShowInfoMsg": true,
+"editor.minimap.enabled": false,
+"workbench.sideBar.location": "right",
+"github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+},
+
+}
