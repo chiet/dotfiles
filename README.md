@@ -1,8 +1,8 @@
 # 🖥️ My Developer Environment
 
-![[image-1.png]]
-![[image.png]]
-![[image-2.png]]
+![[res/image-1.png]]
+![[res/image.png]]
+![[res/image-2.png]]
 
 My personal configuration files and development environment setup. Built for productivity, aesthetics, and cross-platform compatibility.
 
