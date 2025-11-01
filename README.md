@@ -22,20 +22,21 @@ My personal configuration files and development environment setup. Built for pro
 
 ## 📦 What's Included
 
-| File/Directory         | Purpose                                                | Related Tools                |
-| ---------------------- | ------------------------------------------------------ | ---------------------------- |
-| `~/.bashrc`            | Shell configuration                                    | Bash, Oh-My-Posh             |
-| `~/nvim`               | Neovim configuration                                   | LazyVim                      |
-| ~~`~/.gitconfig`~~     | ~~Git aliases and configuration~~                      | ~~Git~~                      |
-| `~/windows terminal`   | Windows Terminal                                       | Powershell, Windows Terminal |
-| `~/mtab`               | Customize new tab                                      | Zen Browser                  |
-| `~/.glzr/glazewm`      | Tiling window manager                                  | GlazeWM                      |
-| `~/.glzr/zebar`        | Top/bottom bar                                         | Zebar                        |
-| `~/glazewm-extra.toml` | Add transparency, remove titlebar                      | GlazeWM                      |
-| `~/powershell`         | Powershell aliases, profile, oh-my-posh, icons, etc... | Powershell 7+                |
-| `~/sidebery`           | Tree-style tab                                         | Zen Browser                  |
-| `~/vifm`               | Neovim inspired file manager                           | Vifm                         |
-| `~/vscode`             | VSCode customization                                   | Visual Studio Code,          |
+| File/Directory                | Purpose                                                | Related Tools                |
+| ----------------------------- | ------------------------------------------------------ | ---------------------------- |
+| `~/.bashrc`                   | Shell configuration                                    | Bash, Oh-My-Posh             |
+| `~/appdata/local//nvim`       | Neovim configuration                                   | LazyVim                      |
+| ~~`~/.gitconfig`~~            | ~~Git aliases and configuration~~                      | ~~Git~~                      |
+| `~/windows terminal`          | Windows Terminal                                       | Powershell, Windows Terminal |
+| `~/mtab`                      | Customize new tab                                      | Zen Browser                  |
+| `~/.glzr/glazewm`             | Tiling window manager                                  | GlazeWM                      |
+| `~/.glzr/zebar`               | Top/bottom bar                                         | Zebar                        |
+| `~/glazewm-extra.toml`        | Add transparency, remove titlebar                      | GlazeWM                      |
+| `~/powershell`                | Powershell aliases, profile, oh-my-posh, icons, etc... | Powershell 7+                |
+| `~/sidebery`                  | Tree-style tab                                         | Zen Browser                  |
+| `~/vifm`                      | Neovim inspired file manager                           | Vifm                         |
+| `~/appdata/roaming/code/user` | VSCode customization                                   | Visual Studio Code,          |
+| `~/appdata/local/lazygit`     |                                                        |                              |
 
 ### Extra paid/closed source software
 - Start11 from Stardock

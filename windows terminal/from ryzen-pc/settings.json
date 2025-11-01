@@ -1,0 +1,164 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "id": "User.copy.644BA8F2"
+        },
+        {
+            "command": "paste",
+            "id": "User.paste"
+        },
+        {
+            "command": "toggleFocusMode",
+            "id": "User.toggleFocusMode"
+        },
+        {
+            "command": "find",
+            "id": "User.find"
+        },
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "id": "User.splitPane.A6751878"
+        }
+    ],
+    "centerOnLaunch": true,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+    "focusFollowMouse": true,
+    "initialCols": 100,
+    "initialRows": 20,
+    "keybindings": 
+    [
+        {
+            "id": "User.copy.644BA8F2",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "User.toggleFocusMode",
+            "keys": "`"
+        },
+        {
+            "id": null,
+            "keys": "ctrl+shift+w"
+        },
+        {
+            "id": "User.paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "User.find",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "User.splitPane.A6751878",
+            "keys": "alt+shift+d"
+        },
+        {
+            "id": "Terminal.ClosePane",
+            "keys": "ctrl+w"
+        }
+    ],
+    "launchMode": "focus",
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "newTabPosition": "afterCurrentTab",
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "colorScheme": "CyberPunk2077",
+            "cursorShape": "filledBox",
+            "font": 
+            {
+                "face": "FiraCode Nerd Font",
+                "size": 13,
+                "weight": "medium"
+            },
+            "opacity": 0,
+            "scrollbarState": "hidden",
+            "useAcrylic": true
+        },
+        "list": 
+        [
+            {
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell"
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt"
+            },
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": false,
+                "name": "Azure Cloud Shell",
+                "source": "Windows.Terminal.Azure"
+            },
+            {
+                "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+                "hidden": false,
+                "name": "PowerShell",
+                "source": "Windows.Terminal.PowershellCore"
+            },
+            {
+                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+                "hidden": false,
+                "name": "Git Bash",
+                "source": "Git"
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#1A131C",
+            "black": "#272932",
+            "blue": "#000000",
+            "brightBlack": "#7B8097",
+            "brightBlue": "#37EBF3",
+            "brightCyan": "#37EBF3",
+            "brightGreen": "#40FFE9",
+            "brightPurple": "#CB1DCD",
+            "brightRed": "#B8203C",
+            "brightWhite": "#BAD5F5",
+            "brightYellow": "#FFF955",
+            "cursorColor": "#FDF500",
+            "cyan": "#00D0DB",
+            "foreground": "#FBB0F2",
+            "green": "#1AC5B0",
+            "name": "CyberPunk2077",
+            "purple": "#742D8B",
+            "red": "#690000",
+            "selectionBackground": "#A64A6E",
+            "white": "#EDE0DB",
+            "yellow": "#FDF500"
+        }
+    ],
+    "showTerminalTitleInTitlebar": false,
+    "tabWidthMode": "titleLength",
+    "theme": "legacyDark",
+    "themes": [],
+    "useAcrylicInTabRow": true,
+    "warning.confirmCloseAllTabs": false
+}

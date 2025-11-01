@@ -1,3 +1,8 @@
+2025-11-01  05:41
+Status:
+Tags: #json #config
+
+```
 {
   "options": {
     "showOptionsButton": true
@@ -29,10 +34,10 @@
   "wallpaper": {
     "type": "fileUpload",
     "enabled": true,
-    "url": "./wallpapers/bg-1.png",
-    "resize": {
-      "w": 1920,
-      "h": 1080
+    "url": "./wallpapers/default.png",
+    "filters": {
+      "brightness": "1",
+      "blur": "0px"
     }
   },
   "ui": {
@@ -84,9 +89,11 @@
   },
   "bookmarks": {
     "type": "user-defined",
+    "showBookmarkNames": false,
     "numberKeys": false,
-    "userDefinedCols": 4,
     "lineOrientation": "top",
+    "defaultFolderIconType": "ri-folder-fill",
+    "userDefinedCols": 4,
     "userDefined": [
       {
         "type": "bookmark",
@@ -128,9 +135,8 @@
     "defaultBlockyCols": 4,
     "defaultBlockyColorType": "custom",
     "defaultBlockyColor": "#ffffff",
-    "defaultFaviconSource": "duckduckgo",
-    "showBookmarkNames": false,
-    "bookmarksLocationFirefox": "toolbar"
+    "bookmarksLocationFirefox": "toolbar",
+    "defaultFaviconSource": "duckduckgo"
   },
   "extras": {
     "snow": {
@@ -138,3 +144,4 @@
     }
   }
 }
+```

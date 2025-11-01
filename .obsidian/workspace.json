@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "629109ee02309bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "867b08677c3d775b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14a19f01a1fa9e1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ed6a34d7461ae21",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f343674d85a7c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e0e62c371c4a626",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9c5a9d4ddd9abe4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd11f9c559b389dc",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "14a19f01a1fa9e1a",
+  "lastOpenFiles": [
+    "README-template.md",
+    "README.md",
+    "glazewm/glazewm-extra.toml",
+    "glazewm",
+    "nvim/unknown_devices/lua/plugins/example.lua.bak",
+    "nvim/unknown_devices/lua/plugins/lazygit.lua",
+    "nvim/unknown_devices/lua/plugins/disabled.lua",
+    "nvim/unknown_devices/lua/plugins/americano.lua",
+    "nvim/unknown_devices/lua/config/options.lua",
+    "nvim/unknown_devices/lua/config/lazy.lua",
+    "nvim/unknown_devices/lua/config/keymaps.lua",
+    "nvim/unknown_devices/lua/config/autocmds.lua",
+    "nvim/unknown_devices/README.md",
+    "nvim/from ryzen-pc/README.md",
+    "Templates/Date.md",
+    "mtab/mtab_json_format.md",
+    "powershell/nvim/unknown_devices/README.md",
+    "powershell/nvim/from ryzen-pc/README.md",
+    "Templates/Templates_date&time.md",
+    "Untitled.md",
+    "Templates/Templates_1.md",
+    "Quick Study/Jebat quick study.md",
+    "Quick Study/Click & Brew Policy Study.md",
+    "Quick Study/Click & Brew Drinks Recipe.md",
+    "Quick Study/Click & Brew Drinks Menu.md",
+    "Quick Study/Click & Brew (Scenarios).md",
+    "Quick Study/Click & Brew (Keyboards).md",
+    "Quick Study/Click & Brew (Interview).md"
+  ]
+}

@@ -1,0 +1,4 @@
+{{date}}  {{time}}
+Status:
+Tags:
+
