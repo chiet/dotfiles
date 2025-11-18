@@ -82,8 +82,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
