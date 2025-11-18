@@ -37,6 +37,7 @@ My personal configuration files and development environment setup. Built for pro
 | `~/vifm`                      | Neovim inspired file manager                           | Vifm                         |
 | `~/appdata/roaming/code/user` | VSCode customization                                   | Visual Studio Code,          |
 | `~/appdata/local/lazygit`     |                                                        |                              |
+|                               |                                                        |                              |
 
 ### Extra paid/closed source software
 - Start11 from Stardock

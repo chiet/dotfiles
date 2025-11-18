@@ -85,11 +85,18 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "14a19f01a1fa9e1a",
   "lastOpenFiles": [
+    "fxsound/Presets/Truthear Hola AUTOEQ_The-Originote.fac",
+    "fxsound/Presets/Truthear Hola AUTOEQ.fac",
+    "fxsound/Presets",
+    "fxsound",
+    "New folder",
     "README-template.md",
     "README.md",
     "glazewm/glazewm-extra.toml",
@@ -98,10 +105,6 @@
     "nvim/unknown_devices/lua/plugins/lazygit.lua",
     "nvim/unknown_devices/lua/plugins/disabled.lua",
     "nvim/unknown_devices/lua/plugins/americano.lua",
-    "nvim/unknown_devices/lua/config/options.lua",
-    "nvim/unknown_devices/lua/config/lazy.lua",
-    "nvim/unknown_devices/lua/config/keymaps.lua",
-    "nvim/unknown_devices/lua/config/autocmds.lua",
     "nvim/unknown_devices/README.md",
     "nvim/from ryzen-pc/README.md",
     "Templates/Date.md",
