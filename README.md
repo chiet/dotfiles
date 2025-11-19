@@ -37,7 +37,8 @@ My personal configuration files and development environment setup. Built for pro
 | `~/vifm`                      | Neovim inspired file manager                           | Vifm                         |
 | `~/appdata/roaming/code/user` | VSCode customization                                   | Visual Studio Code,          |
 | `~/appdata/local/lazygit`     |                                                        |                              |
-| ~/documents/fxsound/presets   | FxSound EQ Presets                                     | FxSound                      |
+| `~/documents/fxsound/presets` | FxSound EQ Presets                                     | FxSound                      |
+|                               |                                                        |                              |
 |                               |                                                        |                              |
 
 ### Extra paid/closed source software
