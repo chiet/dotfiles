@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test-dotfiles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "test-dotfiles"
             }
           }
         ]
@@ -90,11 +90,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "9c5a9d4ddd9abe4a",
+  "active": "14a19f01a1fa9e1a",
   "lastOpenFiles": [
+    "README.md",
+    "test-dotfiles.md",
+    "testtttt.md",
+    "testmf.md",
+    "Untitled.md",
+    "test.md",
     "fxsound/Presets/TRUTHEAR HOLA AUTOEQ.fac",
     "fxsound/TRUTHEAR HOLA AUTOEQ.fac",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "fxsound/Presets/Truthear Hola AUTOEQ_The-Originote.fac",
     "fxsound/Presets",
@@ -104,7 +109,6 @@
     "vial/REDUX60/jebat-clean-simple.vil",
     "vial/REDUX60",
     "vial",
-    "New folder",
     "README-template.md",
     "nvim/unknown_devices/README.md",
     "nvim/from ryzen-pc/README.md",
@@ -113,7 +117,6 @@
     "powershell/nvim/unknown_devices/README.md",
     "powershell/nvim/from ryzen-pc/README.md",
     "Templates/Templates_date&time.md",
-    "Untitled.md",
     "Templates/Templates_1.md",
     "Quick Study/Jebat quick study.md",
     "Quick Study/Click & Brew Policy Study.md",
