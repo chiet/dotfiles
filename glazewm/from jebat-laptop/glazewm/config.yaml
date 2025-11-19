@@ -1,7 +1,8 @@
-general:
+
   # Commands to run when the WM has started (e.g. to run a script or launch
   # another application). Here we are running a batch script to start Zebar.
-  startup_commands: ["shell-exec zebar", "shell-exec glazewm-extra"]
+  startup_commands: ["shell-exec zebar"]
+  #, "shell-exec glazewm-extra"]
 
   # Commands to run just before the WM is shutdown.
   # Example: The below command kills Zebar.
