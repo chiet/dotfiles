@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "867b08677c3d775b",
+        "id": "28c2fb5d44823dac",
         "type": "tabs",
         "children": [
           {
-            "id": "14a19f01a1fa9e1a",
+            "id": "dd59856a8a546a3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-dotfiles.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test-dotfiles"
+              "title": "New tab"
             }
           }
         ]
@@ -90,15 +85,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "14a19f01a1fa9e1a",
+  "active": "dd59856a8a546a3f",
   "lastOpenFiles": [
+    "test-dotfiles.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "vial/REDUX60/jebat-clean-simple.vil",
     "vial/REDUX60/jebat-advanced.vil",
     "vial/REDUX60",
     "vial",
-    "test-dotfiles.md",
     "glazewm/from jebat-laptop/config-files/jebat-custom/starter/with-glazewm.zebar.json",
     "glazewm/from jebat-laptop/config-files/jebat-custom/starter/with-glazewm.html",
     "glazewm/from jebat-laptop/config-files/jebat-custom/starter/styles.css",
