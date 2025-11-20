@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "test-dotfiles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "test-dotfiles"
             }
           }
         ]
@@ -92,8 +92,8 @@
   },
   "active": "14a19f01a1fa9e1a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "vial/REDUX60/jebat-clean-simple.vil",
     "vial/REDUX60/jebat-advanced.vil",
     "vial/REDUX60",
