@@ -84,9 +84,6 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
     }
   },
   "active": "14a19f01a1fa9e1a",
