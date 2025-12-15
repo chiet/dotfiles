@@ -1,5 +1,6 @@
 [
   "templater-obsidian",
   "highlightr-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "password-protection"
 ]
