@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "858ddca1d8acaf47",
+        "id": "aaa1623ee71837da",
         "type": "tabs",
         "children": [
           {
-            "id": "8259bed58a34a00e",
+            "id": "b5ae30002a22d945",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -86,7 +86,7 @@
       "password-protection:Lock password protection": false
     }
   },
-  "active": "8259bed58a34a00e",
+  "active": "b5ae30002a22d945",
   "lastOpenFiles": [
     "README.md",
     "test-dotfiles.md",
