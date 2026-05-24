@@ -82,8 +82,7 @@
       "workspaces:Manage workspace layouts": false,
       "templates:Insert template": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "password-protection:Lock password protection": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e33c2a5982eff966",
